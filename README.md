@@ -22,3 +22,5 @@ All images can by found in "pics" with appropriate labels
 ### Want to Test It?
 
 Download the launcher from the "Releases" section, granted you cannot really do much with this. If you decide to build upon the code, please let me know what you have done. I would love to see what people can make out of my work.
+
+## ![Made by Jimmy](jimmybanner4.png)
