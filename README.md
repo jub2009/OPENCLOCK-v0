@@ -17,7 +17,7 @@ While assembly may have failed, the project still was received very well. I reme
 
 ### Progression Image by Image
 
-![](pics/image 2).png)
+![pic](pics/image2.png)
 
 ### Want to Test It?
 
