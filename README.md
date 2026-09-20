@@ -17,7 +17,7 @@ While assembly may have failed, the project still was received very well. I reme
 
 ### Progression Image by Image
 
-![pic](pics/image2.png)
+All images can by found in "pics" with appropriate labels
 
 ### Want to Test It?
 
